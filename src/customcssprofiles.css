@@ -1,0 +1,63 @@
+.profileDiv img{
+    height: 100%;
+    width: 20%;
+}
+.profileDiv{
+    width: 100%;
+    margin-left: 0;
+    background-color: #fff;
+    padding-bottom: 10px;
+}
+#greenDiv{
+  background-color:  rgb(121, 252, 121);
+  height: 150px;
+}
+#greenDiv h1{
+    font-family: cursive;
+}
+#greenDiv img{
+    margin-left: auto;
+    margin-right: auto;
+}
+.profilerow2{
+    padding-top:110px;
+}
+.profileDiv .profileimg{
+width: 100%;
+width: 200px;
+height: 200px;
+border-radius: 30%;
+}
+
+.title-header{
+    font-size: 3rem;
+    background-color: seagreen;
+    color: #fff;
+}
+.table{
+    font-size: 1.3rem;
+}
+
+#requirementsDiv h3{
+    font-size: 2.4rem;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 4px 6px;
+    background-color: black;
+    color: #fff;
+}
+.table,th,td,tr{
+    text-align: center;
+}
+.card img{
+    border: 2px solid black;
+}
+
+.modal-header{
+   background-color: rgb(121, 252, 121);
+}
+.nav-item:hover{
+    border-bottom: 2px solid  rgb(121, 252, 121); 
+    color:  rgb(121, 252, 121);
+}
